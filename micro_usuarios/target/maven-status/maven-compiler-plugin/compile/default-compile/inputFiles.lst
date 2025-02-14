@@ -1,0 +1,12 @@
+E:\7mo Semestre\Aplicaciones Distribuidas\Parcial 3\OAuth 2.0\micro_usuarios\src\main\java\com\espe\micro_usuarios\config\SecurityConfig.java
+E:\7mo Semestre\Aplicaciones Distribuidas\Parcial 3\OAuth 2.0\micro_usuarios\src\main\java\com\espe\micro_usuarios\controllers\AuthController.java
+E:\7mo Semestre\Aplicaciones Distribuidas\Parcial 3\OAuth 2.0\micro_usuarios\src\main\java\com\espe\micro_usuarios\controllers\UsuarioController.java
+E:\7mo Semestre\Aplicaciones Distribuidas\Parcial 3\OAuth 2.0\micro_usuarios\src\main\java\com\espe\micro_usuarios\filters\JwtRequestFilter.java
+E:\7mo Semestre\Aplicaciones Distribuidas\Parcial 3\OAuth 2.0\micro_usuarios\src\main\java\com\espe\micro_usuarios\MicroUsuariosApplication.java
+E:\7mo Semestre\Aplicaciones Distribuidas\Parcial 3\OAuth 2.0\micro_usuarios\src\main\java\com\espe\micro_usuarios\models\dto\UsuarioDTO.java
+E:\7mo Semestre\Aplicaciones Distribuidas\Parcial 3\OAuth 2.0\micro_usuarios\src\main\java\com\espe\micro_usuarios\models\dto\UsuarioLoginResponseDTO.java
+E:\7mo Semestre\Aplicaciones Distribuidas\Parcial 3\OAuth 2.0\micro_usuarios\src\main\java\com\espe\micro_usuarios\models\entities\Usuarios.java
+E:\7mo Semestre\Aplicaciones Distribuidas\Parcial 3\OAuth 2.0\micro_usuarios\src\main\java\com\espe\micro_usuarios\repositories\UsuarioRepository.java
+E:\7mo Semestre\Aplicaciones Distribuidas\Parcial 3\OAuth 2.0\micro_usuarios\src\main\java\com\espe\micro_usuarios\services\JwtUserDetailsService.java
+E:\7mo Semestre\Aplicaciones Distribuidas\Parcial 3\OAuth 2.0\micro_usuarios\src\main\java\com\espe\micro_usuarios\services\UsuarioService.java
+E:\7mo Semestre\Aplicaciones Distribuidas\Parcial 3\OAuth 2.0\micro_usuarios\src\main\java\com\espe\micro_usuarios\services\UsuarioServiceImpl.java

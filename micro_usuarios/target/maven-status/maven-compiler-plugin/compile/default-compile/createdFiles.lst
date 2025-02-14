@@ -1,0 +1,7 @@
+com\espe\micro_usuarios\config\SecurityConfig.class
+com\espe\micro_usuarios\controllers\AuthController.class
+com\espe\micro_usuarios\services\JwtUserDetailsService.class
+com\espe\micro_usuarios\MicroUsuariosApplication.class
+com\espe\micro_usuarios\models\entities\Usuarios.class
+com\espe\micro_usuarios\services\UsuarioService.class
+com\espe\micro_usuarios\filters\JwtRequestFilter.class
